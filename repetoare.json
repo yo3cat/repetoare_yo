@@ -803,7 +803,7 @@
             "banda": "D-Star YO Network",
             "description": "<center>YO2CK / Cristi<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a><br><br><a href='https://2ck.ro' target=_new>2CK.RO</a></b></center><br/>RPT1: YO2CK  E<br/>RPT2: YO2CK  G<br/>Reflector: XLXCAT",
             "dist": 50,
-            "functional": "activ",
+            "functional": "inactiv",
             "k_id": "",
             "lat": 45.6095,
             "lon": 22.8202,
